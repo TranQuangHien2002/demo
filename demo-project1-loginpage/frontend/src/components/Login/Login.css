@@ -1,0 +1,41 @@
+.login-container {
+  background-color: #f0f2f5;
+  min-height: 100vh;
+  padding-top: 20px;
+}
+.login-container .content-left {
+  margin-top: 50px;
+}
+.login-container .content-left .brand {
+  text-transform: uppercase;
+  font-size: 30px;
+  color: #1877f2;
+}
+.login-container .content-left .detail {
+  font-size: 20px;
+}
+.login-container .content-right {
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+.login-container .content-right .forgot-password {
+  text-decoration: none;
+}
+.login-container .content-right .forgot-password:hover {
+  text-decoration: underline;
+}
+.login-container .content-right .brand {
+  text-transform: uppercase;
+  font-size: 20px;
+  color: #1877f2;
+  text-align: center;
+  font-weight: 600;
+}
+.login-container .content-right .btn-success {
+  border: none;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}/*# sourceMappingURL=Login.css.map */
